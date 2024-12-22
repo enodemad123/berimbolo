@@ -1,0 +1,57 @@
+ /* header{
+      background: linear-gradient(to right,rgba(75, 75, 165, 0.445) ,rgba(75, 75, 165, 0.479) ),url(../image/home.jpg); */
+     /* background-size: cover;
+     min-height: 90vh;
+     min-width: 100%;
+}  */
+
+
+
+/* workshop3 */
+
+
+/* .send{
+     /* background: linear-gradient( to right,red,orange); */
+     /* width: 180px; */
+/* } */ */
+ header{
+    background: url(../image/image\ home.webp); 
+    background-size: cover ; 
+    height: 80vh;
+    width: 100%;
+    position: relative;
+ }
+
+
+.emad{
+     color:  rgb(37, 70, 142, 97);
+}
+#text{
+     position: absolute;
+     top: 40%;
+     left: 30%;
+     color: white;
+     text-align: center;
+}
+.enod{
+     background-color: rgb(37, 70, 142,97);
+ }
+
+
+
+ .anan{
+     background-color: rgb(12, 22, 84,97);
+ }
+ .sh{
+     background-color: rgb(37, 70, 142,97);
+ }
+ .color{
+     background-color: rgb(55, 185, 233,100);
+ }
+
+ #con{
+     height: 600px !important;
+ }
+ .en{
+     color:  rgb(12, 22, 84,97);;
+ }
